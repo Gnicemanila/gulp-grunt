@@ -1,0 +1,16 @@
+{
+  "name": "xz1-ssc",
+  "version": "1.0.0",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "grunt": "~1.0.1",
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt-contrib-jshint": "~1.1.0",
+    "grunt-contrib-uglify": "~3.1.0",
+    "grunt-contrib-watch": "~1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.0",
+    "gulp-utf8-convert": "0.0.7"
+  }
+}
